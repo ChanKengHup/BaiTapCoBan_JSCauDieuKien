@@ -1,0 +1,24 @@
+ h1 {
+    text-align: center;
+}
+
+.number, .hello,.integer,.triangle {
+    text-align: center;
+    padding-top: 100px;
+}
+.number input {
+    text-align: center;
+}
+.number button,
+.integer button,
+.triangle button{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+.show {
+    
+    margin: 30px 400px;
+  background-color: cornflowerblue;
+  display: none;
+}
